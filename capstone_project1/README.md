@@ -1,4 +1,4 @@
-## This is my Capstone Project 1
+## Capstone Project 1 files
 
 /EDA/ - Exploratory Data Analysis
 
